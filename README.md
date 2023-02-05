@@ -1,4 +1,5 @@
-#Sales Forecast
+# Sales Forecast
+
 A sales forecasting tool that allows the user to put a link to a sales dataset, then the user can predict the future sales based on previous sales data, which can be beneficial in many ways. This feature uses the AMIRA Time series, analysis Model.
 
 - Features:
